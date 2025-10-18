@@ -15,7 +15,7 @@ app.use(express.json()); // Parse JSON request bodies
 app.use(cookieParser()); // Parse cookie
 
 app.use(cors({
-  origin: "http://localhost:5173", // frontend URL
+  origin: "https://virtual-assistance-y2eo.onrender.com", // frontend URL
   credentials: true
 }));
 
