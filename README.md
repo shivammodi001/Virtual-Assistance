@@ -11,11 +11,10 @@ A sophisticated AI-powered virtual assistant built with **React.js** frontend an
 
 ## 🖼️ Project Screenshot
 
-Add a screenshot or demo image of your virtual assistant interface here:
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/427ac759-1419-476e-acc9-263a11ef66dc" />
 
-![App Screenshot](frontend/public/screenshot.png)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3198511d-22fb-4df1-ada7-1f53e2f1c3f5" />
 
-*(Replace the path above with your actual screenshot location)*
 
 ---
 
